@@ -17,10 +17,11 @@ El código está organizado para separar claramente el contexto, la interfaz de 
 ## Cómo ejecutarlo
 1. Clonar el repositorio: `git clone https://github.com/cardinalimartin-lang/Patron-Strategy.git`
 2. Abrir el proyecto en IntelliJ IDEA.
-3. Ejecutar la clase principal para ver el intercambio de estrategias en la consola.
+3. Ejecutar la clase `Main` (o la clase que contenga el método `main`) para ver el intercambio de estrategias en la consola.
 
 ---
-**AyED 11 • ISFDyT NO 59 • Trabajo Práctico Final**
-**Autores:** Martín Cardinali & Mateo Rodríguez
-**Docente:** Santos Silva Martín Fidel
+
+AyED 11 • ISFDyT NO 59 • Trabajo Práctico Final  
+Autores: Martín Cardinali & Mateo Rodríguez  
+Docente: Santos Silva Martín Fidel
 
