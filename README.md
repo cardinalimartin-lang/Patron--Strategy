@@ -21,9 +21,9 @@ El código está organizado para separar claramente el contexto, la interfaz de 
 3. Ejecutar la clase `Main` (o la clase que contenga el método `main`) para ver el intercambio de estrategias en la consola.
 
 
-AyED 11 •
-Autores: Martín Cardinali & Mateo Rodríguez
-Docente: Santos Silva Martín Fidel
+
+** Autores: Martín Cardinali & Mateo Rodríguez
+** Docente: Santos Silva Martín Fidel
 
 
 
